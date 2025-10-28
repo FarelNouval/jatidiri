@@ -40,6 +40,9 @@ dependencies:
   freezed_annotation: ^2.1.0
   hive: ^2.2.3
   hive_flutter: ^1.1.0
+  curved_navigation_bar: ^1.0.6
+  pdf: ^3.10.8
+  printing: ^5.12.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -85,11 +88,29 @@ flutter:
     - assets/images/forgotpass2.png
     - assets/images/survei.png
     - assets/images/cardatashome.png
+    - assets/images/textchat11.png
     - assets/images/textchat1.png
-    - assets/images/textchat2.pngs
+    - assets/images/textchat2.png
     - assets/images/textchat3.png
     - assets/images/cardunivhome.png
-    - assets/images/profilhome.png
+    - assets/images/profilhome.jpg
+    - assets/images/notification.png
+    - assets/images/cardsekolahhome.png
+    - assets/images/cardcorporatehome.png
+    - assets/images/cardjatidirikuhome.png
+    - assets/images/cardkeluargahome.png
+    - assets/images/cardjatidiribakathome.png
+    - assets/images/cardjatidiricerdashome.png
+    - assets/images/cardjatidirikendalihome.png
+    - assets/images/cardhomemulaibicara.png
+    - assets/images/historyhome.png
+    - assets/images/hasilteskendali.png
+    - assets/images/hasilteskendali2.png
+    - assets/images/tescerdas1.png
+    - assets/images/tescerdas2.png
+    - assets/images/tescerdas3.png
+    - assets/images/tescerdas4.png
+    - assets/images/iconnotetescerdas.png
 
   fonts:
     - family: Roboto
